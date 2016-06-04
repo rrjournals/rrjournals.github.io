@@ -54,13 +54,13 @@ img {
 }
 
 .background3 {
-    background-image: url('https://wallpaperscraft.com/image/taj_mahal_india_structure_landmark_63163_2560x1024.jpg');
+    background-image: url('../images/India/backgroundindia.jpg');
     background-size: cover;
     background-position:center;
 }
 
 .background4 {
-    background-image: url('http://eskipaper.com/images/chicago-sunset-5.jpg');
+    background-image: url('../images/Chicago/backgroundchicago.jpg');
     background-size: cover;
     background-position:center;
 }
