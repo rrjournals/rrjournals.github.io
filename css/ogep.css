@@ -1,0 +1,169 @@
+.website-title-homepage {
+	 padding-top: 100px;
+ 	 text-shadow: 0 1px 3px rgba(0,0,0,.5)
+ 	 }
+
+.navbar {
+	margin-top: 40px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.border-white
+		{border: white;
+}
+
+img {
+    width: 250px;
+   }
+.tabletitle {
+	 	padding-top:180px;
+   }
+   
+.text-center {
+   text-align: center;
+   }
+
+#footer {
+	border-top: 1px solid white;
+	padding-top:20px;
+}
+
+.fontwhite {
+	color: #FFFFFF;
+}
+
+.fontblack {
+    color: #000000;
+}
+
+.background {
+    background-color: #333;
+}
+
+.background1 {
+    background-image: url('../images/backgroundhome.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background2 {
+    background-image: url('../images/backgroundpost.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background3 {
+    background-image: url('../images/India/backgroundindia.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background4 {
+    background-image: url('../images/Chicago/backgroundchicago.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background5 {
+    background-image: url('../images/HongKong/backgroundhongkong.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background6 {
+    background-image: url('../images/Vietnam/backgroundvietnam.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background7 {
+    background-image: url('../images/Thailand/backgroundthailand.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.background8 {
+    background-image: url('../images/Cuba/backgroundcuba.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+#content {
+    padding-top: 100;
+    text-align: center;
+    position: center;
+}
+
+.logo { 
+	padding: 5px;
+	float: left; 
+} 
+
+.logo img { 
+	display: block; 
+	width:auto; 
+	max-width:20%; 
+}
+
+.img-bottompadding{
+	padding-bottom: 20px;
+}
+
+.toppadding {
+	padding-top: 10px;
+}
+
+.language {
+    padding-top:210px;
+    padding-left:1200px;
+}
+
+.card-heading-header {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card {
+    margin-top: 20px;
+    background-color: #F0F8FF;
+    margin-left: 100px;
+    border-right: 1px solid #D8D8D8;
+    border-left: 1px solid #D8D8D8;
+    border-style: solid;
+    border-color: #D8D8D8;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-width: 0px 1px 2px;
+    border-radius: 3px;
+    box-shadow: none;
+    box-sizing: border-box;
+}
+
+.card-heading {
+    padding: 0px 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    margin: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+        margin-right-ltr-source: physical;
+        margin-right-rtl-source: physical;
+}
+
+.rotateimg180 {
+   transform: rotate(90deg);
