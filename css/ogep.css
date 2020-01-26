@@ -83,7 +83,19 @@ img {
     background-position:center;
 }
 
-.background8  {
+.background8 /*Mexico City*/  {
+    background-image: url('https://lh3.googleusercontent.com/N1hVlqLtPU0PkU-KrDRbk2c9NE4GDoxUJy8xAsU0SXkIeAzYKTI6HI81zx9WRVgc22ZtjBphNTJdxRU1_QkczMBBAEY24vhezzHCg_VfHe3OYA9XMdtrEm39YD0EnjXFHDMvFIVeoToXGmz_qytnFca7-Fos7vmPnYR-iW1esnI1Q712cPMmObhwDteFeb6-hFjXQ6DQ1emprPGqA3nBmpPVtfyLw8AkcRmG2blJvzp_D5VVYRJQY99q-5aPfGzZQ_eEi_etNGvxHJZkBd6U3uhw_EdBUXJbmKe8TOKFppXuY8RpHSO8nPhCYvC3gfbuP3Bvl78UcZpMBGt_evtFTjoYRnXV_p9x49X4T0RxuGlUh_GCcXH26L71OgNDGlQ07-MgrZ1bG-aR1txSxM6w6Gu58t6Nq6lSbUkJbKIpqm4j4vCeiogzIsP0w57Y4ZNjht5oGqzTdwmIHlcX6azpjOTnpodPfOpbOLKpS25UDIhxA1wWLRQoFk7xIMYRUjyNkJ-w6PSjPidAF9RPtigbPVTwLm9tJvWnWFRbZq8lRrUP_FjS0OY_y4pY0bk5DtJ39u8cN6PSqS5nRglhOGQKmGWvK-3IH3TdlIEC9ctUr82i0KDtbX-k--blQSfn3uHVIcREnH1Y_vKMSnv1bMMRJd7QfUghJlFzsAbn80ZgxhENFPmvwj-e6w=w1157-h867-no');
+    background-size: cover;
+    background-position:center;
+}
+
+.background9 /*Costa Rica*/ { 
+    background-image: url('https://lh3.googleusercontent.com/mBF5HaXkNwmtMHnUV6z3N9LlQVB_TNfoskBNPJ482pBTT5WBWS3pGEOP4d_Bn9fnlWk0_PrHqmIDtumIH5ThabIyV5yFmH-aclA86rBeNau2eJXttChXdZIo8WTrhD6LUR_VZoIJRJfbGt9swGtIWyC-UxIZ2wfPrCP9jLKtaTS_0H5svgK2leQ_79VMluv65y0gYGcGX8Q6-YErZqIgCu0LGy5WyrYOc2vcknbI3aEn0dIjspyucwLvnCEs6zw9zJdBziZi8aqJ6251ucqpIpG7tL7KGhZUxyoCYazO_kGYxPJFIoq-nNeXmjbeRCYxlXrx5zND5yJ5nSakONc8tyrLK8wLOOuwEE3gsT79i9TEpm7tDST1Y23UrjCUIylQxWpdPLoicTv99qm__7-qZ9HK0Za1YH71UorS15vHMvI18mDm1zhxvAvz1PwkndIoCu_Ei7WtcqIv5qI1VPcVjdDracdkfD6GXCWogpLNtjUNZ4LinS3txAoy8Zu1sdC1fyxAb7tU026wNXMmAV94MK7ywVgK9xmGs3zkw_T5v-CzXEeBlZMIFukpuxEX9vmq5lIIivcgu_tIU_crkTFZBO5daxqQv1Rl6iEkrGNE6UFOmOChZo5-AGbWTVVVpOipSOqWanTGBZb4KZV_hu8JwN_jhj9I9o9hloZvsU2lZv2F69mKMCHnKA=w1157-h867-no');
+    background-size: cover;
+    background-position:center;
+}
+
+.background10 /*Mexico*/ { 
     background-image: url('');
     background-size: cover;
     background-position:center;
