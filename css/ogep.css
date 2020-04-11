@@ -95,12 +95,11 @@ img {
     background-position:center;
 }
 
-.background10 /*Mexico*/ { 
-    background-image: url('');
+.background11 /*Mexico*/ { 
+    background-image: url('https://live.staticflickr.com/65535/49689062912_d6298c1493_k.jpg');
     background-size: cover;
     background-position:center;
 }
-
 
 body {
   /* Margin bottom by footer height */
