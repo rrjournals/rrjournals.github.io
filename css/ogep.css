@@ -115,11 +115,16 @@ img {
 }
 
 .background14 /*New Orleans*/ { 
-    background-image: url('https://live.staticflickr.com/65535/52784966308_f7a67fb8bb_k.jpg');
+    background-image: url('https://live.staticflickr.com/65535/52784966308_efa832f69e_b.jpg');
     background-size: cover;
     background-position:center;
 }
 
+.background15 /*Peru*/ { 
+    background-image: url('https://live.staticflickr.com/65535/52786563113_b9d547e600_b.jpg');
+    background-size: cover;
+    background-position:center;
+}
 
 body {
   /* Margin bottom by footer height */
